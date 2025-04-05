@@ -46,12 +46,12 @@ A collection of 'beginner-friendly' **Python programming projects** covering **a
   
 - [Download](https://github.com/JakubStachh/Python-Projects/archive/refs/heads/main.zip) the code
 - Unpack the zip file
-- Find the `GO-Projects-main\GO Projects\`
-- Open the folder of the program You want to try out `GO-Projects-main\GO Projects\Anagram Check`
+- Find the `Python-Projects-main\Python Projects\`
+- Open the folder of the program You want to try out `Python-Projects-main\Python Projects\Check for Anagrams`
 - and then run:
   
-  ```sh
-  go run AnagramCheck.go
+  ```
+  python CheckforAnagrams.py
   ```
 #### Should work in `Visual Studio Code` if yours *had been already set up for Golang*
 
