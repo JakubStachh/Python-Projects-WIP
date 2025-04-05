@@ -34,14 +34,14 @@ A collection of 'beginner-friendly' **Python programming projects** covering **a
 
 ### 𓀃 The Actual Installation🤌🤌
 
-#### You can use [Programiz Complier](https://www.programiz.com/swift/online-compiler/) or similar online compliers to run the code
+#### You can use [Programiz Complier](https://www.programiz.com/python-programming/online-compiler/) or similar online compliers to run the code
 
 #### But if you're using e.g. Windows Powershell you should:
 
-- Make sure you have GO installed. You can install it using [GO](https://go.dev/doc/install):
+- Make sure you have Python installed. You can install it using [Python](https://www.python.org/downloads/):
 
   ```
-  go version
+  python --version
   ```
   
 - [Download](https://github.com/JakubStachh/GO-Projects/archive/refs/heads/main.zip) the code
