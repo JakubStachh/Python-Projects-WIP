@@ -13,8 +13,8 @@ A collection of 'beginner-friendly' **Python programming projects** covering **a
 |‎‎‎  ‎ 3️⃣ |[Check if a String is a Palindrome](https://github.com/JakubStachh/Python-Projects/tree/main/Python%20Projects/Check%20if%20a%20String%20is%20a%20Palindrome)|The function `is_palindrome` checks whether a string is a palindrome|
 |‎  ‎ 4️⃣ |[Find Factorial of a Number](https://github.com/JakubStachh/Python-Projects/tree/main/Python%20Projects/Find%20Factorial%20of%20a%20Number)|The function `factorial` calculates the factorial of a number `n`|
 |‎  ‎ 5️⃣ |[Find Missing Number in an Array](https://github.com/JakubStachh/Python-Projects/tree/main/Python%20Projects/Find%20Missing%20Number%20in%20an%20Array)|The function `missing_number` finds the missing number from an array of integers that contains numbers from 1 to `n` with one missing number|
-|‎  ‎ 6️⃣ |[]()| Converts Celsius to Fahrenheit and vice versa |
-|‎  ‎ 7️⃣ |[]()|
+|‎  ‎ 6️⃣ |[Find the Largest Element in a List](https://github.com/JakubStachh/Python-Projects/tree/main/Python%20Projects/Find%20the%20Largest%20Element%20in%20a%20List)|The function `find_largest` returns the largest number in the given array|
+|‎  ‎ 7️⃣ |[Find the Second Largest Number in an Array](https://github.com/JakubStachh/Python-Projects/tree/main/Python%20Projects/Find%20the%20Second%20Largest%20Number%20in%20an%20Array)|The function `second_largest` returns the second largest number in the given array|
 |‎  ‎ 8️⃣ |[]()|
 |‎  ‎ 9️⃣ |[]()|
 | 1️⃣0️⃣ |[]()|
