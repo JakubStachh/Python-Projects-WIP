@@ -15,20 +15,20 @@ A collection of 'beginner-friendly' **Python programming projects** covering **a
 |‎  ‎ 5️⃣ |[Find Missing Number in an Array](https://github.com/JakubStachh/Python-Projects/tree/main/Python%20Projects/Find%20Missing%20Number%20in%20an%20Array)|The function `missing_number` finds the missing number from an array of integers that contains numbers from 1 to `n` with one missing number|
 |‎  ‎ 6️⃣ |[Find the Largest Element in a List](https://github.com/JakubStachh/Python-Projects/tree/main/Python%20Projects/Find%20the%20Largest%20Element%20in%20a%20List)|The function `find_largest` returns the largest number in the given array|
 |‎  ‎ 7️⃣ |[Find the Second Largest Number in an Array](https://github.com/JakubStachh/Python-Projects/tree/main/Python%20Projects/Find%20the%20Second%20Largest%20Number%20in%20an%20Array)|The function `second_largest` returns the second largest number in the given array|
-|‎  ‎ 8️⃣ |[]()|
-|‎  ‎ 9️⃣ |[]()|
-| 1️⃣0️⃣ |[]()|
-| 1️⃣1️⃣ |[]()|
-| 1️⃣2️⃣ |[]()|
-| 1️⃣3️⃣ |[]()|
-| 1️⃣4️⃣ |[]()|
-| 1️⃣5️⃣ |[]()|
-| 1️⃣6️⃣ |[]()|
-| 1️⃣7️⃣ |[]()|
-| 1️⃣8️⃣ |[]()|
-| 1️⃣9️⃣ |[]()|
-| 2️⃣0️⃣ |[]()|
-| 2️⃣1️⃣ |[]()|
+|‎  ‎ 8️⃣ |[]()||
+|‎  ‎ 9️⃣ |[]()||
+| 1️⃣0️⃣ |[]()||
+| 1️⃣1️⃣ |[]()||
+| 1️⃣2️⃣ |[]()||
+| 1️⃣3️⃣ |[]()||
+| 1️⃣4️⃣ |[]()||
+| 1️⃣5️⃣ |[]()||
+| 1️⃣6️⃣ |[]()||
+| 1️⃣7️⃣ |[]()||
+| 1️⃣8️⃣ |[]()||
+| 1️⃣9️⃣ |[]()||
+| 2️⃣0️⃣ |[]()||
+| 2️⃣1️⃣ |[]()||
 
 
 ---
