@@ -53,7 +53,6 @@ A collection of 'beginner-friendly' **Python programming projects** covering **a
   ```
   python CheckforAnagrams.py
   ```
-#### Should work in `Visual Studio Code` if yours *had been already set up for Golang*
 
 ---
 
