@@ -8,11 +8,11 @@ A collection of 'beginner-friendly' **Python programming projects** covering **a
 
 | #  | Project Name               | Description |
 |----|----------------------------|-------------|
-|‎  ‎ 1️⃣ |[Check If a Number is Prime](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Check%20If%20a%20Number%20is%20Prime)|Checks if a number is prime by verifying it has no divisors other than 1 and itself|
-|‎  ‎ 2️⃣ |[Check if a Number is Even or Odd]()| Determines if a number is prime |
-|‎‎‎  ‎ 3️⃣ |[]()| Generates Fibonacci series up to `n` |
-|‎  ‎ 4️⃣ |[]()| Verifies if a string is a palindrome |
-|‎  ‎ 5️⃣ |[]()| A simple CLI Tic-Tac-Toe game |
+|‎  ‎ 1️⃣ |[Check Prime Number](https://github.com/JakubStachh/Python-Projects/tree/main/Python%20Projects/Check%20Prime%20Number)|The function `is_prime` checks whether a given number is prime or not|
+|‎  ‎ 2️⃣ |[Check for Anagrams](https://github.com/JakubStachh/Python-Projects/tree/main/Python%20Projects/Check%20for%20Anagrams)|The function `is_anagram` checks whether two strings are anagrams|
+|‎‎‎  ‎ 3️⃣ |[Check if a String is a Palindrome](https://github.com/JakubStachh/Python-Projects/tree/main/Python%20Projects/Check%20if%20a%20String%20is%20a%20Palindrome)|The function `is_palindrome` checks whether a string is a palindrome|
+|‎  ‎ 4️⃣ |[Find Factorial of a Number](https://github.com/JakubStachh/Python-Projects/tree/main/Python%20Projects/Find%20Factorial%20of%20a%20Number)|The function `factorial` calculates the factorial of a number `n`|
+|‎  ‎ 5️⃣ |[Find Missing Number in an Array](https://github.com/JakubStachh/Python-Projects/tree/main/Python%20Projects/Find%20Missing%20Number%20in%20an%20Array)|The function `missing_number` finds the missing number from an array of integers that contains numbers from 1 to `n` with one missing number|
 |‎  ‎ 6️⃣ |[]()| Converts Celsius to Fahrenheit and vice versa |
 |‎  ‎ 7️⃣ |[]()|
 |‎  ‎ 8️⃣ |[]()|
